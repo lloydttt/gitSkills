@@ -1,1 +1,3 @@
 # gitSkills
+## myfirst clone 
+go
